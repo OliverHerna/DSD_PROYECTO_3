@@ -39,7 +39,7 @@ class VoteGenerator{
 
     private static String selectOptionRandom(){
         //List of options
-        String[] options = {"PRI", "PAN", "PRD", "MORENA"};
+        String[] options = {"Valor1", "Valor2", "Valor3", "Valor4", "Valor5", "Valor6"};
         Random random = new Random();
         int index_options = random.nextInt(options.length);
         //We return the aleatory option
