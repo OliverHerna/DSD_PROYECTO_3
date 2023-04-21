@@ -1,3 +1,7 @@
+//Oliver Manuel Hernandez Mendez
+//PROYECTO 3
+//4CM14
+
 import java.util.Timer;
 import java.util.TimerTask;
 import java.util.Random;
